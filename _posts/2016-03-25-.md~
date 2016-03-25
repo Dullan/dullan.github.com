@@ -1,0 +1,11 @@
+---
+layout: post
+title: "我又来了"
+description: "开始使用jekyll-Bootstrap做自己的博客"
+category: 
+tags: []
+---
+{% include JB/setup %}
+
+##开始学习bootstrap来做自己的博客
+过去一年学习了git，github，jekyll（落坑无数）现在慢慢学习新的更有意义的东西。但我自己是个完美主义，无法只是自己的主页这么这么丑
