@@ -5,8 +5,8 @@
         <description>DuBlog - Dullan</description>
         <link>http://dullan.github.io</link>
         <atom:link href="http://dullan.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 25 Mar 2016 16:39:25 +0800</lastBuildDate>
-        <pubDate>Fri, 25 Mar 2016 16:39:25 +0800</pubDate>
+        <lastBuildDate>Sat, 26 Mar 2016 08:57:53 +0800</lastBuildDate>
+        <pubDate>Sat, 26 Mar 2016 08:57:53 +0800</pubDate>
         <ttl>60</ttl>
 
 
@@ -18,8 +18,8 @@
 
 &lt;p&gt;所以现在用上jekyll-bootstrap希望自己的博客能够越来越赞。简单优雅&lt;/p&gt;
 </description>
-                <link>http://dullan.github.io/2016/03/25/</link>
-                <guid>http://dullan.github.io/2016/03/</guid>
+                <link>http://dullan.github.io/reviews/2016/03/25/</link>
+                <guid>http://dullan.github.io/reviews/2016/03/</guid>
                 <pubDate>Fri, 25 Mar 2016 00:00:00 +0800</pubDate>
         </item>
 

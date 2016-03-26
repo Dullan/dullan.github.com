@@ -8,5 +8,5 @@ http://dullan.github.io/rss.xml
 http://dullan.github.io/sitemap.txt
 http://dullan.github.io/tags
 
-http://dullan.github.io/2016/03/25/
+http://dullan.github.io/reviews/2016/03/25/
 http://dullan.github.io/lessons/2011/12/29/jekyll-introduction

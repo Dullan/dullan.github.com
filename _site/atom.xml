@@ -4,7 +4,7 @@
  <title>DuBlog</title>
  <link href="http://dullan.github.io/atom.xml" rel="self"/>
  <link href="http://dullan.github.io"/>
- <updated>2016-03-25T16:39:25+08:00</updated>
+ <updated>2016-03-26T08:57:53+08:00</updated>
  <id>http://dullan.github.io</id>
  <author>
    <name>Dullan</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>我又来了</title>
-   <link href="http://dullan.github.io/2016/03/25/"/>
+   <link href="http://dullan.github.io/reviews/2016/03/25/"/>
    <updated>2016-03-25T00:00:00+08:00</updated>
-   <id>http://dullan.github.io/2016/03/</id>
+   <id>http://dullan.github.io/reviews/2016/03/</id>
    <content type="html">
 &lt;p&gt;##开始学习bootstrap来做自己的博客
 过去一年学习了git，github，jekyll（落坑无数）现在慢慢学习新的更有意义的东西。但我自己是个完美主义，无法只是自己的主页这么这么丑&lt;/p&gt;
